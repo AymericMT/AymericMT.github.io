@@ -1,0 +1,9 @@
+# Documents personnels (CV, attestations, rapports)
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
